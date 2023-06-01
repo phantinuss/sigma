@@ -34,6 +34,8 @@ detection:
         ApplicationPath|startswith: 'C:\Users\'
         ApplicationPath|contains: '\AppData\Local\Programs\Opera\'
         ApplicationPath|endswith: '\opera.exe'
+    filter_optional_firefox:
+        ApplicationPath|endswith: 'firefox.exe'
     condition: selection and not 1 of filter_main_* and not 1 of filter_optional_*
 falsepositives:
     - Any legitimate application that runs from the AppData user directory
