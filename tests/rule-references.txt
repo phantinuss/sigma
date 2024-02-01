@@ -3462,3 +3462,12 @@ https://docs.microsoft.com/en-us/azure/role-based-access-control/resource-provid
 https://community.f5.com/t5/technical-forum/running-bash-commands-via-rest-api/td-p/272516
 https://www.sysaid.com/blog/service-desk/on-premise-software-security-vulnerability-notification
 https://github.com/AliBrTab/CVE-2023-46747-POC/tree/main
+https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://cydefops.com/vscode-data-exfiltration
+https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
+https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
+https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
+https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
+https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html
+https://medium.com/tenable-techblog/bypassing-authentication-on-arcadyan-routers-with-cve-2021-20090-and-rooting-some-buffalo-ea1dd30980c2
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
