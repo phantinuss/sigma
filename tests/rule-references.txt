@@ -3586,3 +3586,17 @@ https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b205
 https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://github.com/EmpireProject/PSInject
+https://www.fortinet.com/blog/threat-research/enter-the-darkgate-new-cryptocurrency-mining-and-ransomware-campaign
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
+https://github.com/802-1x/Compliance/blob/2e53df8b6e89686a0b91116b3f42c8f717dca820/Ping%20Castle/Get-PingCastle-HTMLComplianceReport.ps1#L8
+https://www.cobaltstrike.com/blog/why-is-notepad-exe-connecting-to-the-internet
+https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass
+https://ngrok.com/blog-post/new-ngrok-domains
+https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/config-mgmt/configuration/15-sy/config-mgmt-15-sy-book/cm-config-diff.html
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispcpl
+https://learn.microsoft.com/en-us/windows/win32/msi/event-logging
