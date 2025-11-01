@@ -4197,3 +4197,17 @@ https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
 https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
+https://x.com/cyberfeeddigest/status/1887041526397587859
+https://github.com/redcanaryco/atomic-red-team/blob/5ede8f21e42ebe37e0a6eff757dba60bcfa85859/atomics/T1547.001/T1547.001.md
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#monitoring-for-failed-unusual-sign-ins
+https://www.greynoise.io/blog/new-scraper-botnet-concentrated-in-taiwan
+https://github.com/mulwareX/CVE-2025-6218-POC
+https://github.com/grayhatkiller/SharpExShell
+https://blackpointcyber.com/blog/racing-to-exploit-centrestacks-cve-2025-30406/
+https://learn.microsoft.com/en-us/windows/client-management/mdm/policy-csp-windowsai#disableaidataanalysis
+https://x.com/cyb3rops/status/1862406110365245506
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-devices#non-compliant-device-sign-in
+https://www.loobins.io/binaries/nscurl/
+https://web.archive.org/web/20230329163438/https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html
+https://web.archive.org/web/20220319032520/https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
+https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
