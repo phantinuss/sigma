@@ -143,6 +143,7 @@ https://app.any.run/tasks/d6fe6624-6ef8-485d-aa75-3d1bdda2a08c/
 https://app.any.run/tasks/d860402c-3ff4-4c1f-b367-0237da714ed1/
 https://app.any.run/tasks/e13ab713-64cf-4b23-ad93-6dceaa5429ac/
 https://app.any.run/tasks/e1fe6a62-bce8-4323-a49a-63795d9afd5d/
+https://app.any.run/tasks/ea944b89-69d8-49c8-ac1f-5c76ad300db2
 https://app.any.run/tasks/ec207948-4916-47eb-a0f4-4c6abb2e7668/
 https://app.any.run/tasks/f420d295-0457-4e9b-9b9e-6732be227583/
 https://app.any.run/tasks/f74c5157-8508-4ac6-9805-d63fe7b0d399/
@@ -324,6 +325,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/living-off-winrm-abusing-complexity-in-remote-management/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -410,6 +412,7 @@ https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-p
 https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/StartupItems.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_network.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_storage.html
+https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vm.html
 https://developer.broadcom.com/xapis/esxcli-command-reference/7.0.0/namespace/esxcli_vsan.html
 https://developer.okta.com/docs/reference/api/event-types/
 https://developer.okta.com/docs/reference/api/system-log/
@@ -475,6 +478,8 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/306021697/config-firewall-address
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/333889629/config-firewall-policy
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
 https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise
@@ -586,6 +591,7 @@ https://docs.microsoft.com/en-us/powershell/module/netsecurity/set-netfirewallpr
 https://docs.microsoft.com/en-us/powershell/module/nettcpip/test-netconnection?view=windowsserver2022-ps
 https://docs.microsoft.com/en-us/powershell/module/pki/export-pfxcertificate
 https://docs.microsoft.com/en-us/powershell/module/pki/import-certificate?view=windowsserver2022-ps
+https://docs.microsoft.com/en-us/powershell/module/powershellwebaccess/install-pswawebapplication
 https://docs.microsoft.com/en-us/powershell/module/storage/get-storagediagnosticinfo
 https://docs.microsoft.com/en-us/powershell/module/storage/mount-diskimage?view=windowsserver2022-ps
 https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms766431(v=vs.85)
@@ -1639,6 +1645,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/EDR-Freeze
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1829,6 +1836,7 @@ https://labs.withsecure.com/publications/kapeka
 https://ladydebug.com/blog/2019/06/21/custom-protocol-handler-cph/
 https://learn.microsoft.com/de-de/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide
 https://learn.microsoft.com/de-de/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.3
+https://learn.microsoft.com/de-de/sysinternals/downloads/adexplorer
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-privileged-accounts
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-user-accounts
 https://learn.microsoft.com/en-gb/entra/architecture/security-operations-user-accounts#monitoring-external-user-sign-ins
@@ -2007,6 +2015,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4647
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4649
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4662
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4673
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4698
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4699
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4701
@@ -2019,7 +2028,9 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-6423
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc959352(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc960241(v=technet.10)?redirectedfrom=MSDN
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd299871(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd364427(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
@@ -2331,6 +2342,7 @@ https://medium.com/@malwaredancer/lockergoga-input-arguments-ipc-communication-a
 https://medium.com/@markmotig/some-ways-to-dump-lsass-exe-c4a75fdc49bf
 https://medium.com/@mvelazco/hunting-for-samaccountname-spoofing-cve-2021-42287-and-domain-controller-impersonation-f704513c8a45
 https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6
+https://medium.com/@NullByteWht/hacking-macos-how-to-dump-1password-keepassx-lastpass-passwords-in-plaintext-723c5b1c311b
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://medium.com/@olafhartong/sysmon-14-0-fileblockexecutable-13d7ba3dff3e
 https://medium.com/@olafhartong/sysmon-15-0-file-executable-detected-40fd64349f36
@@ -2599,6 +2611,7 @@ https://research.checkpoint.com/ryuk-ransomware-targeted-campaign-break/
 https://research.eye.security/sharepoint-under-siege/
 https://research.kudelskisecurity.com/2023/06/12/cve-2023-27997-fortigate-ssl-vpn/
 https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/
+https://research.nccgroup.com/2018/11/22/turla-png-dropper-is-back/
 https://research.nccgroup.com/2020/06/23/wastedlocker-a-new-ransomware-variant-developed-by-the-evil-corp-group/
 https://research.nccgroup.com/2020/07/10/rift-citrix-adc-vulnerabilities-cve-2020-8193-cve-2020-8195-and-cve-2020-8196-intelligence/
 https://research.nccgroup.com/2021/01/12/abusing-cloud-services-to-fly-under-the-radar/
@@ -2643,6 +2656,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/key-group-ransomware-samples-and-telegram-schemes/114025/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -3327,6 +3341,7 @@ https://unit42.paloaltonetworks.com/bluesky-ransomware/
 https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/
 https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
 https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/
+https://unit42.paloaltonetworks.com/cve-2025-59287/
 https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/
 https://unit42.paloaltonetworks.com/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/
 https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
@@ -3355,6 +3370,7 @@ https://vanmieghem.io/stealth-outlook-persistence/
 https://virtualizationreview.com/articles/2020/05/21/ssh-server-on-windows-10.aspx
 https://vitux.com/how-to-hide-confidential-files-in-images-on-debian-using-steganography/
 https://vk9-sec.com/hfs-code-execution-cve-2014-6287/
+https://vmois.dev/query-signal-desktop-messages-sqlite/
 https://vms.drweb.fr/virus/?i=24144899
 https://vulmon.com/exploitdetails?qidtp=exploitdb&qid=48224
 https://vulncheck.com/blog/real-world-cve-2023-43261
@@ -3395,6 +3411,7 @@ https://web.archive.org/web/20210701042336/https://github.com/afwu/PrintNightmar
 https://web.archive.org/web/20210901184449/https://www.fireeye.com/blog/threat-research/2021/09/unknown-actor-using-clfs-log-files-for-stealth.html
 https://web.archive.org/web/20220224045756/https://www.ria.ee/sites/default/files/content-editors/kuberturve/tale_of_gamaredon_infection.pdf
 https://web.archive.org/web/20220306121156/https://www.x86matthew.com/view_post?id=ntdll_pipe
+https://web.archive.org/web/20220319032520/https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
 https://web.archive.org/web/20220419045003/https://cyberwardog.blogspot.com/2017/04/chronicles-of-threat-hunter-hunting-for.html
 https://web.archive.org/web/20220421061949/https://github.com/klinix5/InstallerFileTakeOver
 https://web.archive.org/web/20220422215221/https://twitter.com/malware_traffic/status/1517622327000846338
@@ -3700,6 +3717,7 @@ https://www.infosecmatter.com/crackmapexec-module-library/?cmem=mssql-mimikatz
 https://www.infosecmatter.com/crackmapexec-module-library/?cmem=smb-pe_inject
 https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/
 https://www.intrinsec.com/akira_ransomware/
+https://www.intrinsec.com/alphv-ransomware-gang-analysis/?cn-reloaded=1
 https://www.intrinsec.com/apt27-analysis/
 https://www.inversecos.com/2020/04/successful-4624-anonymous-logons-to.html
 https://www.inversecos.com/2022/04/defence-evasion-technique-timestomping.html
